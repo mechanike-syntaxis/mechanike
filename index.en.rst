@@ -1,11 +1,6 @@
 Mechanike
 =========
 
-Under construction
-------------------
-
-This site is under construction.
-
 Presentation
 ------------
 
