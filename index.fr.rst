@@ -1,11 +1,6 @@
 Mechanike
 =========
 
-En construction
----------------
-
-Ce site est en construction
-
 Présentation
 ------------
 
