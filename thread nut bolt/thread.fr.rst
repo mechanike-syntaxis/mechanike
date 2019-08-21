@@ -6,7 +6,7 @@ Profil ISO métrique
 
 C'est le profil le plus couramment utilisé pour les pièces filetées.
 
-.. image:: thread nut bolt/image/thread_metric.png
+.. image:: /thread nut bolt/image/thread_metric.png
 
 - D, D1, D2: diamètres de l'écrou 
 - d, d1, d2, d3: diamètres de la vis
@@ -34,7 +34,7 @@ Profil ISO Trapézoïdal
 
 Il est utilisé si il y a des efforts important. Il est important de noté que sont prix de revient est plus élevé. 
 
-.. image:: thread nut bolt/image/thread_trapezoidal.png
+.. image:: /thread nut bolt/image/thread_trapezoidal.png
 
 - D1, D2, D3: diamètres de l'écrou 
 - d, d1, d2: diamètres de la vis
