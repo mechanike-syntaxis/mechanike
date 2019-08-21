@@ -6,7 +6,7 @@ Profil ISO métrique
 
 C'est le profil le plus couramment utilisé pour les pièces filetées.
 
-.. image:: thread_metric.png
+.. image:: image/thread_metric.png
 
 - D, D1, D2: diamètres de l'écrou 
 - d, d1, d2, d3: diamètres de la vis
@@ -23,18 +23,18 @@ C'est le profil le plus couramment utilisé pour les pièces filetées.
 
 Tableau des dimensions de filetages couramments utilisés avec une tolérance 6H/6g. Il est conseillé d'utiliser les filetages listés dans ce tableau.
 
-.. include:: thread_metric.rst.inc
+.. include:: table/thread_metric.rst.inc
 
 Tableau complet avec un tolérance 6H/6g
 
-.. include:: full_thread_metric.rst.inc
+.. include:: table/full_thread_metric.rst.inc
 
 Profil ISO Trapézoïdal
 ----------------------
 
 Il est utilisé si il y a des efforts important. Il est important de noté que sont prix de revient est plus élevé. 
 
-.. image:: thread_trapezoidal.png
+.. image:: image/thread_trapezoidal.png
 
 - D1, D2, D3: diamètres de l'écrou 
 - d, d1, d2: diamètres de la vis
@@ -49,4 +49,4 @@ Il est utilisé si il y a des efforts important. Il est important de noté que s
 - d2 = d - P - 2a
 - D3 = d + 2a
 
-.. include:: thread_trapezoidal.rst.inc
+.. include:: table/thread_trapezoidal.rst.inc
