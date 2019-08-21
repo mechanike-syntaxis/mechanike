@@ -21,7 +21,13 @@ C'est le profil le plus couramment utilisé pour les pièces filetées.
 - D2 = d2 = d - 0,6495P
 - d3 = d - 1,2268P
 
+Tableau des dimensions de filetages couramments utilisés avec une tolérance 6H/6g. Il est conseillé d'utiliser les filetages listés dans ce tableau.
+
 .. include:: thread_metric.rst.inc
+
+Tableau complet avec un tolérance 6H/6g
+
+.. include:: full_thread_metric.rst.inc
 
 Profil ISO Trapézoïdal
 ----------------------
