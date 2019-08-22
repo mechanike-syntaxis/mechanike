@@ -18,19 +18,19 @@ Plan
 
 Définition:
 
-- *D*, *D1*, *D2*: diamètres de l'écrou 
-- *d*, *d1*, *d2*, *d3*: diamètres de la vis
-- *D*, d: diamètre nominal
-- *P*: pas du profil
+- *D*, *D1*, *D2* : diamètres de l'écrou 
+- *d*, *d1*, *d2*, *d3* : diamètres de la vis
+- *D*, *d* : diamètre nominal
+- *P* : pas du profil
 
 Calculs:
 
-- *R1* = 0,1443*P*
-- *R2* ≤ 0,0721*P*
-- *H* = 0,866*P*
-- *D1* = *d1* = *d* - 1,0825*P*
-- *D2* = *d2* = *d* - 0,6495*P*
-- *d3* = *d* - 1,2268*P*
+- *R1* = 0,1443 × *P*
+- *R2* ≤ 0,0721 × *P*
+- *H* = 0,866 × *P*
+- *D1* = *d1* = *d* - 1,0825 × *P*
+- *D2* = *d2* = *d* - 0,6495 × *P*
+- *d3* = *d* - 1,2268 × *P*
 
 Filetage couramments utilisé 
 ----------------------------
