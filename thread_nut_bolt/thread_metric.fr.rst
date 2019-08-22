@@ -35,7 +35,7 @@ Calculs:
 Tableau des filetages couramments utilisés 
 ------------------------------------------
 
-Tableau des dimensions de filetages couramments utilisés avec une tolérance 6H/6g. Il est conseillé d'utiliser les filetages listés dans ce tableau.
+Tableau des dimensions de filetages couramments utilisés. Il est conseillé d'utiliser les filetages listés dans ce tableau.
 
 .. include:: /thread_nut_bolt/table/thread_metric.rst.inc
 
