@@ -32,15 +32,15 @@ Calculs:
 - *D2* = *d2* = *d* - 0,6495 × *P*
 - *d3* = *d* - 1,2268 × *P*
 
-Filetage couramments utilisé 
-----------------------------
+Tableau des filetages couramments utilisés 
+------------------------------------------
 
 Tableau des dimensions de filetages couramments utilisés avec une tolérance 6H/6g. Il est conseillé d'utiliser les filetages listés dans ce tableau.
 
 .. include:: /thread_nut_bolt/table/thread_metric.rst.inc
 
-Totalité des filetages
-----------------------
+Tableau complet des filetages
+-----------------------------
 
 Tableau complet avec un tolérance 6H/6g
 
