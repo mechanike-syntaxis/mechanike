@@ -22,3 +22,5 @@ Tableau dimensions
 ------------------
 
 ..include:: /thread_nut_bolt/table/vis_head_hexagonal_square.rst.inc
+
+.. |Name| replace:: Nom
