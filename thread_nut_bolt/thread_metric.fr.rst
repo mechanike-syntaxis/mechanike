@@ -4,11 +4,11 @@ Filetage métrique ISO
 Présentation
 ------------
 
-C'est le profil le plus couramment utilisé pour les pièces filetées. La désignation se fait avec la lettre **M** suivi par le diamètre *d* et du pas *P* séparés par un signe de mutlipcation. Si la tolérance est différante de 6H pour le taraudage et de 6g pour la vis, il est nécessaire de la préciser en fin de désignation.
+C'est le profil le plus couramment utilisé pour les pièces filetées. La désignation se fait avec la lettre **M** suivi par le diamètre *d* et du pas *P* séparés par un signe de mutlipcation. Si la tolérance est différante de **6H** pour le taraudage et de **6g** pour la vis, il est nécessaire de la préciser en fin de désignation.
 
-Example pour une vis: **M10 x 1,5 - 6g**
+Exemple pour une vis: **M10 x 1,5 - 6g**
 
-Example pour un taraudage: **M10 x 1,5 - 6H**
+Exemple pour un taraudage: **M10 x 1,5 - 6H**
 
 
 Plan
