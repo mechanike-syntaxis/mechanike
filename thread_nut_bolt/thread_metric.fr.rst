@@ -16,14 +16,16 @@ Plan
 
 .. image:: /thread_nut_bolt/image/thread_metric.png
 
-Définition:
+Définition
+``````````
 
 - *D*, *D1*, *D2* : diamètres de l'écrou 
 - *d*, *d1*, *d2*, *d3* : diamètres de la vis
 - *D*, *d* : diamètre nominal
 - *P* : pas du profil
 
-Calculs:
+Calcul
+``````
 
 - *R1* = 0,1443 × *P*
 - *R2* ≤ 0,0721 × *P*
@@ -32,15 +34,20 @@ Calculs:
 - *D2* = *d2* = *d* - 0,6495 × *P*
 - *d3* = *d* - 1,2268 × *P*
 
-Tableau des filetages couramments utilisés 
-------------------------------------------
+Tableau dimensions
+------------------
+
+Filetages couramments utilisés 
+``````````````````````````````
 
 Tableau des dimensions de filetages couramments utilisés. Il est conseillé d'utiliser les filetages listés dans ce tableau.
 
 .. include:: /thread_nut_bolt/table/thread_metric.rst.inc
 
+.. |Name| replace:: Nom
+
 Tableau complet des filetages
------------------------------
+``````````````````````````````
 
 Tableau complet avec un tolérance 6H/6g
 
