@@ -14,23 +14,23 @@ Exemple de designation pour une vis à tête hexagonale entièrement filetée: *
 
 **M10** étant le diamètre de la vis, **50** la longueur, **8-8** la classe de qualité.
 
-Plan vis tête hexagonale
-------------------------
+Plan
+----
+
+Vis tête hexagonale
+```````````````````
 
 .. image:: /thread_nut_bolt/image/screw_head_hexagonal.png
+   :height: 200px
 
-Définitions:
-
-- *l* : longueur de la vis
-- *x* : longueur filetée
-
-Plan vis tête carrée
---------------------
+Vis tête carrée
+```````````````
 
 .. image:: /thread_nut_bolt/image/screw_head_square_q.png
+   :height: 200px
 
 Définitions:
-
+````````````
 - *l* : longueur de la vis
 - *x* : longueur filetée
 
