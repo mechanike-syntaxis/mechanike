@@ -15,17 +15,20 @@ Exemple de designation pour une vis à tête fraisé Allen: **ISO 10642 - M10 x 
 Plan
 ----
 
-Vis à tête cylindrique Allen
+Vis à tête cylindrique Allen:
+`````````````````````````````
 
 .. image:: /thread_nut_bolt/image/screw_socket_head.png
    :height: 200px
    
-Vis à tête fraisé Allen
+Vis à tête fraisé Allen:
+````````````````````````
 
 .. image:: /thread_nut_bolt/image/screw_flat_head.png
    :height: 200px
 
 Définitions:
+````````````
 
 - *l* : longueur de la vis
 - *x* : longueur filetée
