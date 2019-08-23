@@ -15,14 +15,16 @@ Plan
 
 .. image:: /thread_nut_bolt/image/thread_trapezoidal.png
 
-Définitions:
+Définitions
+```````````
 
 - *D1*, *D2*, *D3* : diamètres de l'écrou 
 - *d*, *d1*, *d2* : diamètres de la vis
 - *D*, *d* : diamètre nominal
 - *P* : pas du profil
 
-Calculs:
+Calculs
+```````
 
 - *R1* ≤ 0,5
 - *R2* ≤ *a*
@@ -31,8 +33,8 @@ Calculs:
 - *d2* = *d* - *P* - 2 × *a*
 - *D3* = *d* + 2 × *a*
 
-Tableau des filetages 
----------------------
+Tableau dimensions 
+------------------
 
 .. include:: /thread_nut_bolt/table/thread_trapezoidal.rst.inc
 
