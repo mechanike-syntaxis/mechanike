@@ -18,12 +18,12 @@ Plan
 Vis à tête cylindrique Allen
 
 .. image:: /thread_nut_bolt/image/screw_socket_head.png
-   :height: 150px
+   :height: 200px
    
 Vis à tête fraisé Allen
 
 .. image:: /thread_nut_bolt/image/screw_flat_head.png
-   :height: 150px
+   :height: 200px
 
 Définitions:
 
