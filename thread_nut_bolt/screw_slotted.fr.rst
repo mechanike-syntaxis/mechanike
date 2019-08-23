@@ -33,7 +33,7 @@ Vis à tête cylindrique large fendue
 Vis à tête fraisée plate fendue
 ```````````````````````````````
 
-.. image:: /thread_nut_bolt/image/iso2009.png
+.. image:: /thread_nut_bolt/image/iso_2009.png
    :height: 200px
 
 Vis à tête fraisée bombé fendue
