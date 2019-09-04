@@ -1,5 +1,5 @@
-Vis à tête cruciforme
-=====================
+Vis à tête cylindrique/fraisée cruciforme
+=========================================
 
 Présentation
 ------------
