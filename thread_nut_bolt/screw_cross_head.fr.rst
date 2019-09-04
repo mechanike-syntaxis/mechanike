@@ -35,7 +35,7 @@ Vis à tête fraisée cruciforme type Z
 .. image:: /thread_nut_bolt/image/iso7046_Z.png
    :height: 180px
    
-Vis tête fraisée cruciforme type H
+Vis à tête fraisée cruciforme type H
 ``````````````````````````````````
 
 .. image:: /thread_nut_bolt/image/iso7046_H.png
