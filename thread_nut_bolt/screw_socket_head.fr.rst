@@ -4,7 +4,7 @@ Vis à tête cylindrique/fraisée Allen
 Présentation
 ------------
 
-Les vis à tête cylindrique ou à tête fraisé ont un couple de serrage inférieur aux vis à tête hexagonale. Les vis à tête cylindrique permet un chambrage et les vis à tête fraisée ne dépassent pas, cela pour des raisons esthétiques ou de sécurités.
+Les vis à tête cylindrique ou à tête fraisée ont un couple de serrage inférieur aux vis à tête hexagonale. Les vis à tête cylindrique permet un chambrage et les vis à tête fraisée ne dépassent pas, cela pour des raisons esthétiques ou de sécurités.
 
 Exemple de designation pour une vis à tête cylindrique Allen: **ISO 4762 - M10 x 50 - 8-8**
 
