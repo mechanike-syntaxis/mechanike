@@ -17,19 +17,19 @@ Exemple de designation:
 Plan
 ----
 
-Vis tête bombée cruciforme type Z
+Vis à tête bombée cruciforme type Z
 `````````````````````````````````
 
 .. image:: /thread_nut_bolt/image/iso7045_Z.png
    :height: 180px
    
-Vis tête bombée cruciforme type H
+Vis à tête bombée cruciforme type H
 `````````````````````````````````
 
 .. image:: /thread_nut_bolt/image/iso7045_H.png
    :height: 180px
    
-Vis tête fraisée cruciforme type Z
+Vis à tête fraisée cruciforme type Z
 ``````````````````````````````````
 
 .. image:: /thread_nut_bolt/image/iso7046_Z.png
@@ -41,13 +41,13 @@ Vis tête fraisée cruciforme type H
 .. image:: /thread_nut_bolt/image/iso7046_H.png
    :height: 180px
    
-Vis tête fraisée bombée cruciforme type Z
+Vis à tête fraisée bombée cruciforme type Z
 `````````````````````````````````````````
 
 .. image:: /thread_nut_bolt/image/iso7047_Z.png
    :height: 180px
    
-Vis tête fraisée bombée cruciforme type H
+Vis à tête fraisée bombée cruciforme type H
 `````````````````````````````````````````
 
 .. image:: /thread_nut_bolt/image/iso7047_H.png
