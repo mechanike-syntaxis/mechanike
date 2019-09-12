@@ -4,7 +4,7 @@ Vis à tête fendue
 Présentation
 ------------
 
-Les vis à tête fendue ont un faible couple de serrage, elles sont ulitisées pour des assemblages avec des faibles contraintes mécaniques. Comme avantage, un seul et même outil (tournevis plat) est nécessaire pour visser ou dévisser toutes les vis, peut importe le diamètre. 
+Les vis à tête fendue ont un faible couple de serrage, elles sont ulitisées pour des assemblages avec des faibles contraintes mécaniques.
 
 Exemple de désignation:
 
