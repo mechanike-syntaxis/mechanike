@@ -1,10 +1,10 @@
-Vis de pression
-===============
+Vis sans tête Allen
+===================
 
 Présentation
 ------------
 
-Les vis de pression sont utilisées pours des assemblages avec de faible sollicitation mécanique. Les vis à téton peuvent êtres utilisées pour un guidage, tandis que les autres types de vis peuvent servir de vis d'arrêt.
+Les vis sans tête sont utilisées pours des assemblages avec de faible sollicitation mécanique. Les vis à téton peuvent êtres utilisées pour un guidage, tandis que les autres types de vis peuvent servir de vis d'arrêt.
 
 Exemple de désignation:
 
