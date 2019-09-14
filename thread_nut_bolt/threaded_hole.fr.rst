@@ -1,10 +1,10 @@
-Trous taraudés
-==============
+Trou taraudé
+============
 
 Présenation
 -----------
 
-Pour une vis, la longueur de la partie filetée insérée dans un trou taraudé (*j*) doit être supérieur au diamètre (*d*) de la vis si c'est un métal dur, supérieur à une fois et demi le diamètre (*d*) si c'est un métal tendre.
+Pour une vis, la longueur de la partie filetée insérée dans un trou taraudé ( *j* ) doit être supérieur au diamètre ( *d* ) de la vis si c'est un métal dur, supérieur à une fois et demi le diamètre ( *d* ) si c'est un métal tendre.
 
 - métal dur: *j* ≥ *d*
 - métal tendre: *j* ≥ 1.5 × *d*
