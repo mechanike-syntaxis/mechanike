@@ -29,7 +29,7 @@ Définitions
 Tableau dimensions
 ------------------
 
-.. include:: /thread_nut_bolt/table/clearance_hole_hole.rst.inc
+.. include:: /thread_nut_bolt/table/clearance_hole.rst.inc
 
 
 .. |fine series| replace:: Série fine
