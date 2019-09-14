@@ -26,11 +26,13 @@ Trou borgne normal
 ``````````````````
 
 .. image:: /thread_nut_bolt/image/threaded_hole_normal.png
-
+   :height: 250px
+   
 Trou borgne réduit
 ``````````````````
 
 .. image:: /thread_nut_bolt/image/threaded_hole_short.png
+   :height: 250px
 
 Définitions
 ```````````
