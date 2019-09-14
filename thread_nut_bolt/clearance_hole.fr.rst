@@ -30,3 +30,8 @@ Tableau dimensions
 ------------------
 
 .. include:: /thread_nut_bolt/table/clearance_hole_hole.rst.inc
+
+
+.. |fine series| replace:: Série fine
+.. |medium series| replace:: Série moyenne
+.. |coarse series| replace:: Série large
