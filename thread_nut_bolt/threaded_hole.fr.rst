@@ -4,11 +4,16 @@ Trou taraudé
 Présenation
 -----------
 
+Vis
+````
+
 Pour une vis, la longueur de la partie filetée insérée dans un trou taraudé ( *j* ) doit être supérieur au diamètre ( *d* ) de la vis si c'est un métal dur, supérieur à une fois et demi le diamètre ( *d* ) si c'est un métal tendre.
 
 - métal dur: *j* ≥ *d*
 - métal tendre: *j* ≥ 1.5 × *d*
 
+Goujon
+``````
 Pour un goujon, la longueur *j* doit être égale à une fois et demi le diamètre *d* pour un métal dur, deux fois le diamètre *d* pour un métal tendre. 
 
 - métal dur: *j* = 1.5 × *d*
