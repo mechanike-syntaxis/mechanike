@@ -44,6 +44,8 @@ Plan
 Écrou hexagonal à créneaux
 ``````````````````````````
 
+Écrou à créneaux jusqu'à M10 inclus à gauche, écrou à créneaux à partir de M12 à droite.
+
 .. image:: /thread_nut_bolt/image/iso7035.png
    :height: 200px
 
