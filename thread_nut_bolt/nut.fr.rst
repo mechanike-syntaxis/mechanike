@@ -12,7 +12,7 @@ Les écrous hexagonaux conviennent à la majorité des applications, il existe d
 - Écrou hexagonal autofreiné, cet écrou évite le desserrage accidentel dû aux vibrations. Exemple de désignation: **ISO 10511 - M6 - 08 **
 - Écrou hexagonal à créneaux, cet écrou s'utilise avec une goupille fendue pour éviter le desserage. Exemple de désignation: **ISO 7035 - M6 - 08 **
 
-Pour les désignations, M8 étant le diamètre de la vis, 08 la classe de qualité.
+Pour les désignations, **M8** étant le diamètre de la vis, **08** la classe de qualité.
 
 Plan
 ----
