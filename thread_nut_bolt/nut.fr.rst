@@ -3,24 +3,56 @@
 
 Présenation
 -----------
- 
-- Écrous hexagonaux ISO 4032
-- Écrous bas hexagonaux ISO 4035
-- Écrous hexagonaux autofreinés ISO 10511 / ISO 10512
-- Écrous hexagonaux à embasse cylindro-tronconique ISO 4161
+
+Les écrous hexagonaux conviennent à la majorité des applications, il existe différents types d'écroux:
+
+- Écrou hexagonal usuel, c'est l'écrou utilisé par defaut. Exemple de désignation: **ISO 4032 - M6 - 08 **
+- Écrou bas hexagonal, cet écrou présente un encombrement mondre mais il permet un couple de serrage inférieur. Exemple de désignation: **ISO 4035 - M6 - 08 **
+- Écrou hexagonal à embasse cylindro-tronconique, il évite l'utilisation d'une rondelle. Exemple de désignation: **ISO 4061 - M6 - 08 **
+- Écrou hexagonal autofreiné, cet écrou évite le desserrage accidentel dû aux vibrations. Exemple de désignation: **ISO 10511 - M6 - 08 **
+- Écrou hexagonal à créneaux, cet écrou s'utilise avec une goupille fendue pour éviter le desserage. Exemple de désignation: **ISO 7035 - M6 - 08 **
+
+Pour les désignations, M8 étant le diamètre de la vis, 08 la classe de qualité.
 
 Plan
 ----
 
-PArtie 1
-````````
+Écrou hexagonal usuel
+`````````````````````
 
-  
+.. image:: /thread_nut_bolt/image/iso4032.png
+   :height: 200px
+
+Écrou bas hexagonal
+```````````````````
+
+.. image:: /thread_nut_bolt/image/iso4035.png
+   :height: 200px
+
+Écrou hexagonal à embasse cylindro-tronconique
+``````````````````````````````````````````````
+
+.. image:: /thread_nut_bolt/image/iso4061.png
+   :height: 200px
+
+Écrou hexagonal autofreiné
+``````````````````````````
+
+.. image:: /thread_nut_bolt/image/iso10511.png
+   :height: 200px
+
+Écrou hexagonal à créneaux
+``````````````````````````
+
+.. image:: /thread_nut_bolt/image/iso7035.png
+   :height: 200px
+
 Définitions
 ```````````
 
 - *d* : diamètre de la vis
-- *d1* : diamètre du trou de passage (= diamètre foret)
+- *c* : diamètre de l'embasse
+- *g* : largeur de la gorge
 
 Tableau dimensions
 ------------------
