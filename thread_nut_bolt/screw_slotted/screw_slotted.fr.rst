@@ -21,25 +21,25 @@ Plan
 Vis à tête cylindrique plate fendue
 ```````````````````````````````````
 
-.. image:: /thread_nut_bolt/image/iso1207.png
+.. image:: /thread_nut_bolt/screw_slotted/image/iso1207.png
    :height: 200px
 
 Vis à tête cylindrique large fendue
 ```````````````````````````````````
 
-.. image:: /thread_nut_bolt/image/iso1580.png
+.. image:: /thread_nut_bolt/screw_slotted/image/iso1580.png
    :height: 200px
 
 Vis à tête fraisée plate fendue
 ```````````````````````````````
 
-.. image:: /thread_nut_bolt/image/iso_2009.png
+.. image:: /thread_nut_bolt/screw_slotted/image/iso_2009.png
    :height: 200px
 
 Vis à tête fraisée bombé fendue
 ```````````````````````````````
 
-.. image:: /thread_nut_bolt/image/iso2010.png
+.. image:: /thread_nut_bolt/screw_slotted/image/iso2010.png
    :height: 200px
 
 Définitions
@@ -54,7 +54,7 @@ Définitions
 Tableau dimensions
 ------------------
 
-.. include:: /thread_nut_bolt/table/screw_slotted.rst.inc
+.. include:: /thread_nut_bolt/screw_slotted/table/screw_slotted.rst.inc
 
 .. |Name| replace:: Nom
 .. |fully threaded| replace:: Entièrement filetée

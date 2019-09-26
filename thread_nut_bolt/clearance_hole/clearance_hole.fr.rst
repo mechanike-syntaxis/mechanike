@@ -17,7 +17,7 @@ Si la vis est utilisée sans rondelle, pour éviter les interférences entre le 
 Plan
 ----
 
-.. image:: /thread_nut_bolt/image/clearance_hole.png
+.. image:: /thread_nut_bolt/clearance_hole/image/clearance_hole.png
    :height: 250px
    
 Définitions
@@ -29,7 +29,7 @@ Définitions
 Tableau dimensions
 ------------------
 
-.. include:: /thread_nut_bolt/table/clearance_hole.rst.inc
+.. include:: /thread_nut_bolt/clearance_hole/table/clearance_hole.rst.inc
 
 .. |fine series| replace:: Série fine
 .. |medium series| replace:: Série moyenne

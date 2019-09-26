@@ -20,37 +20,37 @@ Plan
 Vis à tête bombée cruciforme type Z
 ```````````````````````````````````
 
-.. image:: /thread_nut_bolt/image/iso7045_Z.png
+.. image:: /thread_nut_bolt/screw_cross_head/image/iso7045_Z.png
    :height: 180px
    
 Vis à tête bombée cruciforme type H
 ```````````````````````````````````
 
-.. image:: /thread_nut_bolt/image/iso7045_H.png
+.. image:: /thread_nut_bolt/screw_cross_head/image/iso7045_H.png
    :height: 180px
    
 Vis à tête fraisée cruciforme type Z
 ````````````````````````````````````
 
-.. image:: /thread_nut_bolt/image/iso7046_Z.png
+.. image:: /thread_nut_bolt/screw_cross_head/image/iso7046_Z.png
    :height: 180px
    
 Vis à tête fraisée cruciforme type H
 ````````````````````````````````````
 
-.. image:: /thread_nut_bolt/image/iso7046_H.png
+.. image:: /thread_nut_bolt/screw_cross_head/image/iso7046_H.png
    :height: 180px
    
 Vis à tête fraisée bombée cruciforme type Z
 ```````````````````````````````````````````
 
-.. image:: /thread_nut_bolt/image/iso7047_Z.png
+.. image:: /thread_nut_bolt/screw_cross_head/image/iso7047_Z.png
    :height: 180px
    
 Vis à tête fraisée bombée cruciforme type H
 ```````````````````````````````````````````
 
-.. image:: /thread_nut_bolt/image/iso7047_H.png
+.. image:: /thread_nut_bolt/screw_cross_head/image/iso7047_H.png
    :height: 180px
 
 
@@ -64,7 +64,7 @@ Définitions:
 Tableau dimensions
 ------------------
 
-.. include:: /thread_nut_bolt/table/screw_cross_head.rst.inc
+.. include:: /thread_nut_bolt/screw_cross_head/table/screw_cross_head.rst.inc
 
 .. |Name| replace:: Nom
 .. |P| replace:: Pas

@@ -18,12 +18,12 @@ Plan
 Outil de serrage débordant
 ``````````````````````````
 
-.. image:: /thread_nut_bolt/image/counterbore_short.png
+.. image:: /thread_nut_bolt/counterbore_short/image/counterbore_short.png
 
 Outil de serrage non débordant
 ``````````````````````````````
 
-.. image:: /thread_nut_bolt/image/counterbore_long.png
+.. image:: /thread_nut_bolt/counterbore_short/image/counterbore_long.png
 
 Définitions
 ```````````
@@ -35,4 +35,4 @@ Définitions
 Tableau dimensions
 ------------------
 
-.. include:: /thread_nut_bolt/table/counterbore.rst.inc
+.. include:: /thread_nut_bolt/counterbore_short/table/counterbore.rst.inc

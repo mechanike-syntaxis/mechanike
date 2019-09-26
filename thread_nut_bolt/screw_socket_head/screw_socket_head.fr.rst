@@ -19,13 +19,13 @@ Plan
 Vis à tête cylindrique Allen
 ````````````````````````````
 
-.. image:: /thread_nut_bolt/image/screw_socket_head.png
+.. image:: /thread_nut_bolt/screw_socket_head/image/screw_socket_head.png
    :height: 200px
 
 Vis à tête fraisée Allen
 ````````````````````````
 
-.. image:: /thread_nut_bolt/image/screw_flat_head.png
+.. image:: /thread_nut_bolt/screw_socket_head/image/screw_flat_head.png
    :height: 200px
 
 Définitions
@@ -38,7 +38,7 @@ Définitions
 Tableau dimensions
 ------------------
 
-.. include:: /thread_nut_bolt/table/screw_socket_head.rst.inc
+.. include:: /thread_nut_bolt/screw_socket_head/table/screw_socket_head.rst.inc
 
 .. |Name| replace:: Nom
 .. |P| replace:: Pas

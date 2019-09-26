@@ -20,25 +20,25 @@ Plan
 Écrou hexagonal usuel
 `````````````````````
 
-.. image:: /thread_nut_bolt/image/iso4032.png
+.. image:: /thread_nut_bolt/nut/image/iso4032.png
    :height: 200px
 
 Écrou bas hexagonal
 ```````````````````
 
-.. image:: /thread_nut_bolt/image/iso4035.png
+.. image:: /thread_nut_bolt/nut/image/iso4035.png
    :height: 200px
 
 Écrou hexagonal à embasse cylindro-tronconique
 ``````````````````````````````````````````````
 
-.. image:: /thread_nut_bolt/image/iso4061.png
+.. image:: /thread_nut_bolt/nut/image/iso4061.png
    :height: 200px
 
 Écrou hexagonal autofreiné
 ``````````````````````````
 
-.. image:: /thread_nut_bolt/image/iso10511.png
+.. image:: /thread_nut_bolt/nut/image/iso10511.png
    :height: 200px
 
 Écrou hexagonal à créneaux
@@ -46,7 +46,7 @@ Plan
 
 Écrou à créneaux jusqu'à M10 inclus à gauche, écrou à créneaux à partir de M12 à droite.
 
-.. image:: /thread_nut_bolt/image/iso7035.png
+.. image:: /thread_nut_bolt/nut/image/iso7035.png
    :height: 200px
 
 Définitions
@@ -59,4 +59,4 @@ Définitions
 Tableau dimensions
 ------------------
 
-.. include:: /thread_nut_bolt/table/nut.rst.inc
+.. include:: /thread_nut_bolt/nut/table/nut.rst.inc

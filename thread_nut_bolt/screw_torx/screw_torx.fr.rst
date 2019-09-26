@@ -22,31 +22,31 @@ Plan
 Vis à tête cylindrique Torx
 ```````````````````````````
 
-.. image:: /thread_nut_bolt/image/iso14579.png
+.. image:: /thread_nut_bolt/screw_torx/image/iso14579.png
    :height: 180px
    
 Vis à tête cylindrique basse Torx
 `````````````````````````````````
 
-.. image:: /thread_nut_bolt/image/iso14580.png
+.. image:: /thread_nut_bolt/screw_torx/image/iso14580.png
    :height: 180px
    
 Vis à tête cylindrique bombée Torx
 ``````````````````````````````````
 
-.. image:: /thread_nut_bolt/image/iso14583.png
+.. image:: /thread_nut_bolt/screw_torx/image/iso14583.png
    :height: 180px
    
 Vis à tête fraisée Torx
 ```````````````````````
 
-.. image:: /thread_nut_bolt/image/iso14582.png
+.. image:: /thread_nut_bolt/screw_torx/image/iso14582.png
    :height: 180px
    
 Vis à tête fraisée bombée Torx
 ``````````````````````````````
 
-.. image:: /thread_nut_bolt/image/iso14584.png
+.. image:: /thread_nut_bolt/screw_torx/image/iso14584.png
    :height: 180px
 
 
@@ -60,7 +60,7 @@ Définitions:
 Tableau dimensions
 ------------------
 
-.. include:: /thread_nut_bolt/table/screw_torx.rst.inc
+.. include:: /thread_nut_bolt/screw_torx/table/screw_torx.rst.inc
 
 .. |Name| replace:: Nom
 .. |P| replace:: Pas

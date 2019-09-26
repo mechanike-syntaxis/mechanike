@@ -25,13 +25,13 @@ Plan
 Trou borgne normal
 ``````````````````
 
-.. image:: /thread_nut_bolt/image/threaded_hole_normal.png
+.. image:: /thread_nut_bolt/threaded_hole/image/threaded_hole_normal.png
    :height: 250px
    
 Trou borgne réduit
 ``````````````````
 
-.. image:: /thread_nut_bolt/image/threaded_hole_short.png
+.. image:: /thread_nut_bolt/threaded_hole/image/threaded_hole_short.png
    :height: 250px
 
 Définitions
@@ -47,4 +47,4 @@ Définitions
 Tableau dimensions
 ------------------
 
-.. include:: /thread_nut_bolt/table/threaded_hole.rst.inc
+.. include:: /thread_nut_bolt/threaded_hole/table/threaded_hole.rst.inc

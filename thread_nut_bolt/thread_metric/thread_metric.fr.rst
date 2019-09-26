@@ -14,7 +14,7 @@ Exemple pour un taraudage: **M10 x 1,5 - 6H**
 Plan
 ----
 
-.. image:: /thread_nut_bolt/image/thread_metric.png
+.. image:: /thread_nut_bolt/thread_metric/image/thread_metric.png
 
 Définition
 ``````````
@@ -42,7 +42,7 @@ Filetages couramments utilisés
 
 Tableau des dimensions de filetages couramments utilisés. Il est conseillé d'utiliser les filetages listés dans ce tableau.
 
-.. include:: /thread_nut_bolt/table/thread_metric.rst.inc
+.. include:: /thread_nut_bolt/thread_metric/table/thread_metric.rst.inc
 
 .. |Name| replace:: Nom
 
@@ -51,5 +51,5 @@ Tableau complet des filetages
 
 Tableau complet avec un tolérance 6H/6g
 
-.. include:: /thread_nut_bolt/table/full_thread_metric.rst.inc
+.. include:: /thread_nut_bolt/thread_metric/table/full_thread_metric.rst.inc
 

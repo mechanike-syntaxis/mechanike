@@ -13,7 +13,7 @@ Exemple pour un taraudage: **Tr10 x 2 - 7H**
 Plan
 ----
 
-.. image:: /thread_nut_bolt/image/thread_trapezoidal.png
+.. image:: /thread_nut_bolt/thread_trapezoidal/image/thread_trapezoidal.png
 
 Définitions
 ```````````
@@ -36,7 +36,7 @@ Calculs
 Tableau dimensions 
 ------------------
 
-.. include:: /thread_nut_bolt/table/thread_trapezoidal.rst.inc
+.. include:: /thread_nut_bolt/thread_trapezoidal/table/thread_trapezoidal.rst.inc
 
 Tolérances
 ----------

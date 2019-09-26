@@ -21,31 +21,31 @@ Plan
 Vis sans tête Allen à bout plat
 ```````````````````````````````
 
-.. image:: /thread_nut_bolt/image/iso4026.png
+.. image:: /thread_nut_bolt/set_screw/image/iso4026.png
    :height: 200px
 
 Vis sans tête Allen à bout conique
 ``````````````````````````````````
 
-.. image:: /thread_nut_bolt/image/iso4027.png
+.. image:: /thread_nut_bolt/set_screw/image/iso4027.png
    :height: 200px
 
 Vis sans tête Allen à téton court
 `````````````````````````````````
 
-.. image:: /thread_nut_bolt/image/iso4028_short.png
+.. image:: /thread_nut_bolt/set_screw/image/iso4028_short.png
    :height: 200px
 
 Vis sans tête Allen à téton long
 ````````````````````````````````
 
-.. image:: /thread_nut_bolt/image/iso4028_long.png
+.. image:: /thread_nut_bolt/set_screw/image/iso4028_long.png
    :height: 200px
 
 Vis sans tête Allen à bout cuvette
 ``````````````````````````````````
 
-.. image:: /thread_nut_bolt/image/iso4029.png
+.. image:: /thread_nut_bolt/set_screw/image/iso4029.png
    :height: 200px
 
 Définitions
@@ -57,4 +57,4 @@ Définitions
 Tableau dimensions
 ------------------
 
-.. include:: /thread_nut_bolt/table/set_screw.rst.inc
+.. include:: /thread_nut_bolt/set_screw/table/set_screw.rst.inc

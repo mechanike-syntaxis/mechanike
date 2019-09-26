@@ -20,13 +20,13 @@ Plan
 Vis tête hexagonale
 ```````````````````
 
-.. image:: /thread_nut_bolt/image/screw_head_hexagonal.png
+.. image:: /thread_nut_bolt/screw_head_hexagonal_square/image/screw_head_hexagonal.png
    :height: 200px
 
 Vis tête carrée
 ```````````````
 
-.. image:: /thread_nut_bolt/image/screw_head_square_q.png
+.. image:: /thread_nut_bolt/screw_head_hexagonal_square/image/screw_head_square_q.png
    :height: 200px
 
 Définitions:
@@ -37,7 +37,7 @@ Définitions:
 Tableau dimensions
 ------------------
 
-.. include:: /thread_nut_bolt/table/screw_head_hexagonal_square.rst.inc
+.. include:: /thread_nut_bolt/screw_head_hexagonal_square/table/screw_head_hexagonal_square.rst.inc
 
 .. |Name| replace:: Nom
 .. |fully threaded| replace:: Entièrement filetée
