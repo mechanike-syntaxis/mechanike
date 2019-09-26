@@ -1,16 +1,21 @@
 - Fixation et assemblage
 - Vis, Boulon, Filletage [icon-bolt]
-
-Trou de passage
-Lamage et chambrage
-Écrou
-
     - Vis
-        - Vis à tête hexagonale/carrée </test.fr>
-    - Boulon
-        - Vis à tête hexagonale/carrée </test.fr>        
-    - Trou </test.fr> #ecroux #visser #devisser
-    - Boulon </test.fr> #ecroux #visser #devisser #serrage
+        - Vis à tête hexagonale/carrée </thread_nut_bolt/screw_head_hexagonal_square/screw_head_hexagonal_square.fr> #ISO 4014 #ISO 4017
+        - Vis à tête cylindrique/fraisée Allen </thread_nut_bolt/screw_socket_head/screw_socket_head.fr> #ISO 4762 #ISO 10642
+        - Vis à tête cylindrique/fraisée Torx </thread_nut_bolt/screw_torx/screw_torx.fr> #ISO 14579 #ISO 14580 #ISO 14582 #ISO 14583 #ISO 14584
+        - Vis à tête cylindrique/fraisée cruciforme </>
+        - Vis à tête fendue </>
+        - Vis sans tête Allen </>
+    - Écrou
+        - Écrou </>
+    - Trou
+        - Lamage et chambrage </>
+        - Trou de passage </>
+        - Trou taraudé </>
+    - Filetage
+        - Filetage métrique </>
+        - Filetage Trapézoïdal </>
 - Rondelle [icon-washer] </test.fr>
 - Rivet [icon-rivet] </test.fr>
 - Dilatation frettage [icon-hot_cold] </test.fr>
