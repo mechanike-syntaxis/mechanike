@@ -17,7 +17,7 @@ Plan
 Écrou hexagonal autofreiné
 ``````````````````````````
 
-.. image:: /thread_nut_bolt/blocknut/image/iso10511.png
+.. image:: /thread_nut_bolt/locknut/image/iso10511.png
    :height: 200px
 
 Écrou hexagonal à créneaux
@@ -25,7 +25,7 @@ Plan
 
 Écrou à créneaux jusqu'à M10 inclus à gauche, écrou à créneaux à partir de M12 à droite.
 
-.. image:: /thread_nut_bolt/blocknut/image/iso7035.png
+.. image:: /thread_nut_bolt/locknut/image/iso7035.png
    :height: 200px
 
 Définitions
@@ -37,4 +37,4 @@ Définitions
 Tableau dimensions
 ------------------
 
-.. include:: /thread_nut_bolt/blocknut/table/blocknut.rst.inc
+.. include:: /thread_nut_bolt/locknut/table/locknut.rst.inc
