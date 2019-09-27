@@ -4,18 +4,19 @@
         - Vis à tête hexagonale/carrée </thread_nut_bolt/screw_head_hexagonal_square/screw_head_hexagonal_square.fr> #ISO 4014 #ISO 4017
         - Vis à tête cylindrique/fraisée Allen </thread_nut_bolt/screw_socket_head/screw_socket_head.fr> #ISO 4762 #ISO 10642
         - Vis à tête cylindrique/fraisée Torx </thread_nut_bolt/screw_torx/screw_torx.fr> #ISO 14579 #ISO 14580 #ISO 14582 #ISO 14583 #ISO 14584
-        - Vis à tête cylindrique/fraisée cruciforme </>
-        - Vis à tête fendue </>
-        - Vis sans tête Allen </>
+        - Vis à tête cylindrique/fraisée cruciforme </thread_nut_bolt/screw_cross_head/screw_cross_head.fr> #ISO 7045 #ISO 7046 #ISO 7047
+        - Vis à tête fendue </thread_nut_bolt/screw_slotted/screw_slotted.fr> #ISO 1207 #ISO 1580 #ISO 2009 #ISO 2010
+        - Vis sans tête Allen </thread_nut_bolt/set_screw/set_screw.fr> #ISO 4026 #ISO 4027 #ISO 4028 #ISO 4029
     - Écrou
-        - Écrou </>
+        - Écrou </thread_nut_bolt/nut/nut.fr> #ISO 4032 #ISO 4035 #ISO 4061
+        - Écrou </thread_nut_bolt/locknut/locknut.fr> #ISO 7040 #ISO 7035
     - Trou
-        - Lamage et chambrage </>
-        - Trou de passage </>
-        - Trou taraudé </>
+        - Lamage et chambrage </thread_nut_bolt/counterbore/counterbore.fr> #Trou 
+        - Trou de passage </thread_nut_bolt/clearance_hole/clearance_hole.fr> #Perçage #Foret
+        - Trou taraudé </thread_nut_bolt/threaded_hole/threaded_hole.fr> #Perçage #Foret #Taraud
     - Filetage
-        - Filetage métrique </>
-        - Filetage Trapézoïdal </>
+        - Filetage métrique </thread_nut_bolt/thread_metric/thread_metric.fr> 
+        - Filetage trapézoïdal </thread_nut_bolt/thread_trapezoidal/thread_trapezoidal.fr>
 - Rondelle [icon-washer] </test.fr>
 - Rivet [icon-rivet] </test.fr>
 - Dilatation frettage [icon-hot_cold] </test.fr>
