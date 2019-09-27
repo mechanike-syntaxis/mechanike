@@ -38,6 +38,9 @@ Tableau dimensions
 
 .. include:: /thread_nut_bolt/thread_trapezoidal/table/thread_trapezoidal.rst.inc
 
+.. |Nom| replace:: Nom
+.. |Pitch| replace:: Pas
+
 Tolérances
 ----------
 
