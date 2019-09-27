@@ -63,5 +63,5 @@ Tableau dimensions
 .. include:: /thread_nut_bolt/screw_torx/table/screw_torx.rst.inc
 
 .. |Name| replace:: Nom
-.. |P| replace:: Pas
+.. |Pitch| replace:: Pas
 .. |fully threaded| replace:: Entièrement filetée
