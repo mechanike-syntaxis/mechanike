@@ -67,5 +67,5 @@ Tableau dimensions
 .. include:: /thread_nut_bolt/screw_cross_head/table/screw_cross_head.rst.inc
 
 .. |Name| replace:: Nom
-.. |P| replace:: Pas
+.. |Pitch| replace:: Pas
 .. |fully threaded| replace:: Entièrement filetée
