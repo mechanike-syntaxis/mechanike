@@ -45,26 +45,3 @@ Tableau dimensions
 
 .. image:: /thread_nut_bolt/counterbore/counterbore_short.png
 
-3
-
-.. image:: /thread_nut_bolt/counterbore_short.png
-
-4
-
-.. image:: /counterbore_short.png
-
-5
-
-.. image:: thread_nut_bolt/counterbore/image/counterbore_short.png
-
-6
-
-.. image:: thread_nut_bolt/counterbore/counterbore_short.png
-
-7
-
-.. image:: thread_nut_bolt/counterbore_short.png
-
-8
-
-.. image:: image/counterbore_short.png
