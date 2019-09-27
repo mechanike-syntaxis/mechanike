@@ -57,4 +57,5 @@ Tableau dimensions
 .. include:: /thread_nut_bolt/screw_slotted/table/screw_slotted.rst.inc
 
 .. |Name| replace:: Nom
+.. |Pitch| replace:: Pas
 .. |fully threaded| replace:: Entièrement filetée
