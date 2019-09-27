@@ -2,14 +2,14 @@
 - Vis, Boulon, Filletage [icon-bolt]
     - Vis
         - Vis à tête hexagonale/carrée </thread_nut_bolt/screw_head_hexagonal_square/screw_head_hexagonal_square.fr> #ISO 4014 #ISO 4017
-        - Vis à tête cylindrique/fraisée Allen </thread_nut_bolt/screw_socket_head/screw_socket_head.fr> #ISO 4762 #ISO 10642
-        - Vis à tête cylindrique/fraisée Torx </thread_nut_bolt/screw_torx/screw_torx.fr> #ISO 14579 #ISO 14580 #ISO 14582 #ISO 14583 #ISO 14584
-        - Vis à tête cylindrique/fraisée cruciforme </thread_nut_bolt/screw_cross_head/screw_cross_head.fr> #ISO 7045 #ISO 7046 #ISO 7047
+        - Vis à tête Allen </thread_nut_bolt/screw_socket_head/screw_socket_head.fr> #ISO 4762 #ISO 10642
+        - Vis à tête Torx </thread_nut_bolt/screw_torx/screw_torx.fr> #ISO 14579 #ISO 14580 #ISO 14582 #ISO 14583 #ISO 14584
+        - Vis à tête cruciforme </thread_nut_bolt/screw_cross_head/screw_cross_head.fr> #ISO 7045 #ISO 7046 #ISO 7047
         - Vis à tête fendue </thread_nut_bolt/screw_slotted/screw_slotted.fr> #ISO 1207 #ISO 1580 #ISO 2009 #ISO 2010
         - Vis sans tête Allen </thread_nut_bolt/set_screw/set_screw.fr> #ISO 4026 #ISO 4027 #ISO 4028 #ISO 4029
     - Écrou
         - Écrou </thread_nut_bolt/nut/nut.fr> #ISO 4032 #ISO 4035 #ISO 4061
-        - Écrou </thread_nut_bolt/locknut/locknut.fr> #ISO 7040 #ISO 7035
+        - Écrou frein </thread_nut_bolt/locknut/locknut.fr> #ISO 7040 #ISO 7035
     - Trou
         - Lamage et chambrage </thread_nut_bolt/counterbore/counterbore.fr> #Trou 
         - Trou de passage </thread_nut_bolt/clearance_hole/clearance_hole.fr> #Perçage #Foret
