@@ -45,6 +45,7 @@ Tableau des dimensions de filetages couramments utilisés. Il est conseillé d'u
 .. include:: /thread_nut_bolt/thread_metric/table/thread_metric.rst.inc
 
 .. |Name| replace:: Nom
+.. |Pitch| replace:: Pas
 
 Tableau complet des filetages
 ``````````````````````````````
