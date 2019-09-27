@@ -40,4 +40,5 @@ Tableau dimensions
 .. include:: /thread_nut_bolt/screw_head_hexagonal_square/table/screw_head_hexagonal_square.rst.inc
 
 .. |Name| replace:: Nom
+.. |Pitch| replace:: Pas
 .. |fully threaded| replace:: Entièrement filetée
