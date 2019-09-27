@@ -37,11 +37,3 @@ Tableau dimensions
 
 .. include:: table/counterbore.rst.inc
 
-1
-
-.. image:: /thread_nut_bolt/counterbore/image/counterbore_short.png
-
-2
-
-.. image:: /thread_nut_bolt/counterbore/counterbore_short.png
-
