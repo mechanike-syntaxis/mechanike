@@ -35,5 +35,4 @@ Définitions
 Tableau dimensions
 ------------------
 
-.. include:: table/counterbore.rst.inc
-
+.. include:: /thread_nut_bolt/counterbore/table/counterbore.rst.inc
