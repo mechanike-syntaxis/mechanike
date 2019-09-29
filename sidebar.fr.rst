@@ -18,6 +18,8 @@
         - Filetage métrique </thread_nut_bolt/thread_metric/thread_metric.fr> 
         - Filetage trapézoïdal </thread_nut_bolt/thread_trapezoidal/thread_trapezoidal.fr>
 - Rondelle [icon-washer] </test.fr>
+    -Rondelle plate </washer/washer/washer.fr> #ISO 7089 #ISO 7093 #Rondelle large
+    -Rondelle frein </washer/lock_washer/lock_washer.fr>
 - Rivet [icon-rivet] </test.fr>
 - Dilatation frettage [icon-hot_cold] </test.fr>
 - Clavette [icon-key] </test.fr>
