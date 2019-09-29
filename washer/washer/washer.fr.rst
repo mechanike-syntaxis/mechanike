@@ -25,7 +25,7 @@ Rondelle plate
 Rondelle plate large
 ````````````````````
 
-.. image:: /washer/washer/image/iso7089.png
+.. image:: /washer/washer/image/iso7093.png
    :height: 200px
 
 Définitions
