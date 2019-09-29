@@ -20,13 +20,13 @@ Rondelle plate
 ``````````````
 
 .. image:: /washer/washer/image/iso7089.png
-   :height: 200px
+   :height: 300px
 
 Rondelle plate large
 ````````````````````
 
 .. image:: /washer/washer/image/iso7093.png
-   :height: 200px
+   :height: 300px
 
 Définitions
 ```````````
