@@ -23,7 +23,7 @@ Formes de clavette (forme A, forme B, forme AB)
 ```````````````````````````````````````````````
 
 .. image:: /parallel_key/square_parallel_key/image/key_shape.png
-   :height: 175px
+   :height: 145px
 
 Moyeu (à gauche), arbre (à droite)
 ``````````````````````````````````
