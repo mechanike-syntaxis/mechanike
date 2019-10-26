@@ -19,8 +19,8 @@ Clavette parallèle
 .. image:: /parallel_key/square_parallel_key/image/parallel_key.png
    :height: 175px
 
-Moyeu rainuré (à gauche), arbre rainuré (à droite)
-``````````````````````````````````````````````````
+Moyeu (à gauche), arbre (à droite)
+``````````````````````````````````
 
 .. image:: /parallel_key/square_parallel_key/image/shaft_hub.png
    :height: 300px
