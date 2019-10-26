@@ -33,3 +33,4 @@ Tableau dimensions
 
 .. |max| replace:: Max
 .. |min| replace:: Min
+.. |to| replace:: à
