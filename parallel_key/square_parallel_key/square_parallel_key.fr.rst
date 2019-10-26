@@ -5,7 +5,7 @@ Clavette parallèle
 Présentation
 ------------
 
-La clavette est destinée à rentre solidaire en rotation un arbre avec un moyeu. 
+La clavette est destinée à rendre solidaire en rotation un arbre avec un moyeu. Le système de clavette ne convient pas pour un assemblage précis soumis à des mouvemente en rotation alternés, cela à cause de légers jeux entre la clavette et les rainures dans le moyeu ou dans l'arbre. 
 
 Exemple de designation pour une clavette parallèle: **ISO 773 - b x h x L**
 
@@ -13,14 +13,17 @@ Exemple de designation pour une clavette parallèle: **ISO 773 - b x h x L**
 Plan
 ----
 
-Vis à tête cylindrique Allen
-````````````````````````````
+Clavette parallèle
+```````````````````
 
 .. image:: /parallel_key/square_parallel_key/image/parallel_key.png
-   :height: 200px
+   :height: 175px
+
+Moyeu rainuré (à gauche), arbre rainuré (à droite)
+``````````````````````````````````````````````````
 
 .. image:: /parallel_key/square_parallel_key/image/shaft_hub.png
-   :height: 200px
+   :height: 300px
 
 Définitions
 ```````````
@@ -34,6 +37,6 @@ Tableau dimensions
 
 .. include:: /parallel_key/square_parallel_key/table/square_parallel_key.rst.inc
 
-.. |max| replace:: Max
-.. |min| replace:: Min
+.. |max| replace:: max
+.. |min| replace:: min
 .. |to| replace:: à
