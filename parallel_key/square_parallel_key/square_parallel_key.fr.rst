@@ -5,7 +5,7 @@ Clavette parallèle
 Présentation
 ------------
 
-La clavette est destinée à rendre solidaire en rotation un arbre avec un moyeu. Le système de clavette ne convient pas pour un assemblage précis soumis à des mouvemente en rotation alternés, cela à cause de légers jeux entre la clavette et les rainures dans le moyeu ou dans l'arbre. 
+La clavette est destinée à rendre solidaire en rotation un arbre avec un moyeu. Le système de clavette ne convient pas pour un assemblage précis soumis à des mouvemente en rotation alternés, cela à cause de légers jeux entre la clavette et les rainures dans le moyeu ou dans l'arbre.
 
 Exemple de designation pour une clavette parallèle: **ISO 773 - b x h x L**
 
