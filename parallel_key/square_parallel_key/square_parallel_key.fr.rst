@@ -13,10 +13,16 @@ Exemple de designation pour une clavette parallèle: **ISO 773 - b x h x L**
 Plan
 ----
 
-Clavette parallèle
-```````````````````
+Clavette parallèle forme A
+``````````````````````````
 
 .. image:: /parallel_key/square_parallel_key/image/parallel_key.png
+   :height: 175px
+
+Formes de clavette (forme A, forme B, forme AB)
+```````````````````````````````````````````````
+
+.. image:: /parallel_key/square_parallel_key/image/key_forms.png
    :height: 175px
 
 Moyeu (à gauche), arbre (à droite)
