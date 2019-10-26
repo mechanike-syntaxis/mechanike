@@ -16,7 +16,10 @@ Plan
 Vis à tête cylindrique Allen
 ````````````````````````````
 
-.. image:: /thread_nut_bolt/screw_socket_head/image/screw_socket_head.png
+.. image:: /parallel_key/square_parallel_key/image/parallel_key.png
+   :height: 200px
+
+.. image:: /parallel_key/square_parallel_key/image/shaft_hub.png
    :height: 200px
 
 Définitions
