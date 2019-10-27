@@ -30,6 +30,7 @@ Définitions
 - *b* : largeur de la clavette
 - *h* : hauteur de la clavette
 - *L* : longueur de la clavette 
+- *d2* : diamètre de la clavette 
 
 Tableau dimensions
 ------------------
