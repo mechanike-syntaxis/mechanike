@@ -24,7 +24,7 @@
 - Dilatation frettage [icon-hot_cold] </test.fr>
 - Clavette [icon-key]
     - Clavette parallele </parallel_key/square_parallel_key/square_parallel_key.fr> #ISO 773
-    - Clavette disque </paraller_key/woodruff_key/woodruff_key.fr> #ISO 3912
+    - Clavette disque </parallel_key/woodruff_key/woodruff_key.fr> #ISO 3912
 - Canelure [icon-spline] </test.fr>
 - Goupille [icon-pin] </test.fr>
 - Anneaux elastique [icon-ring] </test.fr>
