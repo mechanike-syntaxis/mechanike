@@ -17,12 +17,14 @@
     - Filetage
         - Filetage métrique </thread_nut_bolt/thread_metric/thread_metric.fr> 
         - Filetage trapézoïdal </thread_nut_bolt/thread_trapezoidal/thread_trapezoidal.fr>
-- Rondelle [icon-washer] </test.fr>
-    -Rondelle plate </washer/washer/washer.fr> #ISO 7089 #ISO 7093 #Rondelle large
-    -Rondelle frein </washer/lock_washer/lock_washer.fr>
+- Rondelle [icon-washer]
+    - Rondelle plate </washer/washer/washer.fr> #ISO 7089 #ISO 7093 #Rondelle large
+    - Rondelle frein </washer/lock_washer/lock_washer.fr>
 - Rivet [icon-rivet] </test.fr>
 - Dilatation frettage [icon-hot_cold] </test.fr>
-- Clavette [icon-key] </test.fr>
+- Clavette [icon-key]
+    - Clavette parallele </parallel_key/square_parallel_key/square_parallel_key.fr> #ISO 773
+    - Clavette disque </paraller_key/woodruff_key/woodruff_key.fr> #ISO 3912
 - Canelure [icon-spline] </test.fr>
 - Goupille [icon-pin] </test.fr>
 - Anneaux elastique [icon-ring] </test.fr>
