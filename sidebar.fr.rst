@@ -19,7 +19,6 @@
         - Filetage trapézoïdal </thread_nut_bolt/thread_trapezoidal/thread_trapezoidal.fr>
 - Rondelle [icon-washer]
     - Rondelle plate </washer/washer/washer.fr> #ISO 7089 #ISO 7093 #Rondelle large
-    - Rondelle frein </washer/lock_washer/lock_washer.fr>
 - Rivet [icon-rivet] </test.fr>
 - Dilatation frettage [icon-hot_cold] </test.fr>
 - Clavette [icon-key]
@@ -40,10 +39,6 @@
 - Guidage lineaire [icon-slide] </test.fr>
 - Ressort [icon-spring] </test.fr>
 - Materiaux
-- Metalique [icon-hashing_1]
-  - Designation </test.fr>
-  - Dimension bar </test.fr>
-  - Dimension tube </test.fr>
-  - Dimension tole </test.fr>
+- Metalique [icon-hashing_1] </test.fr>
 - Plastique [icon-hashing_2] </test.fr>
 - Composite [icon-hashing_3] </test.fr>
