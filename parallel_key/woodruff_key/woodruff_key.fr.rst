@@ -16,7 +16,7 @@ Clavette disque
 ````````````````
 
 .. image:: /parallel_key/woodruff_key/image/woodruff_key.png
-   :height: 175px
+   :height: 250px
 
 Moyeu (à gauche), arbre (à droite)
 ``````````````````````````````````
