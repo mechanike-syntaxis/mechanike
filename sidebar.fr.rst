@@ -15,12 +15,12 @@
         - Trou de passage </thread_nut_bolt/clearance_hole/clearance_hole.fr> #Perçage #Foret
         - Trou taraudé </thread_nut_bolt/threaded_hole/threaded_hole.fr> #Perçage #Foret #Taraud
     - Filetage
-        - Filetage métrique </thread_nut_bolt/thread_metric/thread_metric.fr> 
-        - Filetage trapézoïdal </thread_nut_bolt/thread_trapezoidal/thread_trapezoidal.fr>
+        - Filetage métrique </thread_nut_bolt/thread_metric/thread_metric.fr> #ISO 68-1
+        - Filetage trapézoïdal </thread_nut_bolt/thread_trapezoidal/thread_trapezoidal.fr> #ISO 2901
 - Rondelle [icon-washer]
-    - Rondelle plate </washer/washer/washer.fr> #ISO 7089 #ISO 7093 #Rondelle large
+    - Rondelle plate </washer/washer/washer.fr> #Rondelle large #ISO 7089 #ISO 7093
 - Rivet [icon-rivet]
-    - Rivet aveugle </rivet/blind_rivet/blind_rivet.fr.rst> #ISO 15975 #ISO 15976 #ISO 15977 #ISO 15978 #ISO 15979 #ISO 15980 #ISO 15981 #ISO 15982 #ISO 15983 #ISO 15984
+    - Rivet aveugle </rivet/blind_rivet/blind_rivet.fr> #Rivetage #Rivet Pop #ISO 15975 #ISO 15976 #ISO 15977 #ISO 15978 #ISO 15979 #ISO 15980 #ISO 15981 #ISO 15982 #ISO 15983 #ISO 15984
 - Dilatation frettage [icon-hot_cold] </test.fr>
 - Clavette [icon-key]
     - Clavette parallele </parallel_key/square_parallel_key/square_parallel_key.fr> #ISO 773
