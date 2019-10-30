@@ -4,9 +4,9 @@ Rivet aveugle
 Présentation
 ------------
 
-Le rivet aveugle aussi communément appelé rivet pop, permet une liaison encastrement indémontable. Contrairement à un système vis-écrou, il n'y a pas besoin d'avoir accès aux deux côtés de l'assemblage pour le montage. Le rivetage est obtenue par traction de la tige jusqu'à la rupture de celle-ci, opération réalisée avec une pince à riveter.
+Le rivet aveugle aussi communément appelé rivet pop, permet une liaison encastrement indémontable. Contrairement à un système vis-écrou, il n'y a pas besoin d'avoir accès aux deux côtés de l'assemblage pour le montage. Le rivetage est obtenu par traction de la tige jusqu'à la rupture de celle-ci, opération réalisée avec une pince à riveter.
 
-Exemple de designation pour un rivet aveugle de forme A : **ISO 15983 Forme A - d1 x l **
+Exemple de désignation pour un rivet aveugle de forme A : **ISO 15983 Forme A - d1 x l **
 
 Plan
 ----
