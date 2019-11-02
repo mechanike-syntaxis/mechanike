@@ -27,5 +27,12 @@ Définitions
 Tableau dimensions
 ------------------
 
-.. include:: /spline/straight_sided_spline/table/straight_sided_spline.rst.inc
+Série légère
+````````````
 
+.. include:: /spline/straight_sided_spline/table/light_series.rst.inc
+
+`Série moyenne
+``````````````
+
+.. include:: /spline/straight_sided_spline/table/medium_series.rst.inc
