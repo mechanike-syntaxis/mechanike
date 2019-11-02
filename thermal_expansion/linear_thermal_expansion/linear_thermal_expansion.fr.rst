@@ -24,7 +24,7 @@ Avec :
 Tableau coefficients
 --------------------
 
-Les valeurs du tableau doivent être multiplié par **10⁻⁶**, exemple pour l'aluminium : 23 => 0,000023
+Les valeurs du tableau doivent être multiplié par **10⁻⁶**, exemple pour l'aluminium : 23 => 0,000023...
 
 +-----------------------------------------------------------------------------+
 | Matériaux                                Coefficient de dilatation linéaire |
