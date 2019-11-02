@@ -22,6 +22,7 @@
 - Rivet [icon-rivet]
     - Rivet aveugle </rivet/blind_rivet/blind_rivet.fr> #Rivetage #Rivet Pop #ISO 15975 #ISO 15976 #ISO 15977 #ISO 15978 #ISO 15979 #ISO 15980 #ISO 15981 #ISO 15982 #ISO 15983 #ISO 15984
 - Dilatation frettage [icon-hot_cold] </test.fr>
+    - Dilatation linéaire </thermal_expansion/linear_thermal_expansion/linear_thermal_expansion.fr> #Coefficient de dilatation linéaire
 - Clavette [icon-key]
     - Clavette parallele </parallel_key/square_parallel_key/square_parallel_key.fr> #ISO 773
     - Clavette disque </parallel_key/woodruff_key/woodruff_key.fr> #ISO 3912
