@@ -32,7 +32,7 @@ Série légère
 
 .. include:: /spline/straight_sided_spline/table/light_series.rst.inc
 
-`Série moyenne
-``````````````
+Série moyenne
+`````````````
 
 .. include:: /spline/straight_sided_spline/table/medium_series.rst.inc
