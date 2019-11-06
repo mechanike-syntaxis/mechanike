@@ -8,18 +8,6 @@ Pour transmettre un couple important entre un arbre et un moyeu, on peut utilise
 
 Exemple de designation pour des cannelures à flancs parallèles : **ISO 14 - N × d × D**
 
-+---------------------------------------+
-|                Results                |
-+---------------------------------------+
-|             |        Contestant       |
-+ Competition +-------------------------+
-|             |  John | Andrea | Robert |
-+-------------+-------+--------+--------+
-| Swimming    |  1:30 |   2:05 |   1:15 |
-+-------------+-------+--------+--------+
-| Running     | 15:30 |  14:10 |  15:45 |
-+-------------+-------+--------+--------+
-
 Plan
 ----
 
