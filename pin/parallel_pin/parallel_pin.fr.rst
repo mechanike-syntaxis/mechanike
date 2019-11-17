@@ -35,4 +35,4 @@ Définitions
 Tableau dimensions
 ------------------
 
-.. include:: /pin/parallel_pin/table/pin_parallel.rst.inc
+.. include:: /pin/parallel_pin/table/parallel_pin.rst.inc
