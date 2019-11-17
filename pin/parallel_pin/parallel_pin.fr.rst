@@ -7,8 +7,8 @@ Présentation
 Une goupille cylindrique est utilisée pour immobiliser une pièce par rapport à une autre (exemple d'un arbre avec le moyeu), elle peut aussi être utilisée pour assurer le positionnement de deux pièces à assembler.
 Dans le cas où une goupille est placée dans un trou non débouchant, il est recommandé d'utiliser une goupille à trou taraudé et avec méplat (le trou taraudé est utilisé pour le démmontage, le méplat permet l'évacuation de l'air qui se comprime dans le trou non débouchant).
 
-Exemple de designation pour une goupille cylindrique : **ISO 8734 type A - D x L**
-Exemple de designation pour une goupille cylindrique à trou taraudé : **ISO 8735 - D x L**
+- Exemple de designation pour une goupille cylindrique : **ISO 8734 type A - D x L**
+- Exemple de designation pour une goupille cylindrique à trou taraudé : **ISO 8735 - D x L**
 
 Plan
 ----
@@ -16,13 +16,13 @@ Plan
 Goupille cylindrique 
 ````````````````````
 
-.. image:: /.png
+.. image:: /pin/parallel_pin/image/iso8734A.png
    :height: 175px
 
 Goupille cylindrique à trou taraudé
 ```````````````````````````````````
 
-.. image:: /.png
+.. image:: /pin/parallel_pin/image/iso8735.png
    :height: 175px
 
 Définitions
@@ -35,4 +35,4 @@ Définitions
 Tableau dimensions
 ------------------
 
-.. include:: /.rst.inc
+.. include:: /pin/parallel_pin/table/pin_parallel.rst.inc
