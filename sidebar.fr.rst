@@ -29,6 +29,7 @@
 - Canelure [icon-spline]
     - Cannelures à flancs parallèles </spline/straight_sided_spline/straight_sided_spline.fr> #ISO 14
 - Goupille [icon-pin] </test.fr>
+    - Goupille cylindrique </pin/parallel_pin/parallel_pin.fr> #ISO 8734 #ISO 8735
 - Anneaux elastique [icon-ring] </test.fr>
 - Joint [icon-rubber] </test.fr>
 - Transmission de puissance
